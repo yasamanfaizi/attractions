@@ -1,0 +1,330 @@
+h1{
+    color:rgb(18, 58, 8);
+    border: 10px solid rgb(47, 141, 47);
+    background-color: rgb(162, 219, 145);;
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+.to{
+    text-align: center;
+    color: green;
+}
+.ot{
+    text-align: center;
+
+    color: rgb(152, 218, 152);
+}
+
+
+p{
+    font-weight: italic;
+}
+
+.parent{
+    display:flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.zoo{
+    padding: 5px;
+    border-radius: 20px;
+    background-color: green;
+    width:310px;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.agakhan{
+    padding: 5px;
+    border-radius: 20px;
+    background-color: green;
+    width:310px;
+    text-align:center;
+    margin-bottom: 30px;
+}
+.shoe{
+    padding: 5px;
+    border-radius: 20px;
+    background-color: green;
+    width:310px;
+    text-align:center;
+    margin-bottom: 30px;
+}
+
+.aqua{
+     padding: 5px;
+    border-radius: 20px;
+    background-color: green;
+    width:310px;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.artg{
+    padding: 5px;
+    border-radius: 20px;
+    background-color: green;
+    width:310px;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.casaloma{
+    padding: 5px;
+    border-radius: 20px;
+    background-color: green;
+    width:310px;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.cn{
+    padding: 5px;
+    border-radius: 20px;
+    background-color: green;
+    width:310px;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.royalm{
+    padding: 5px;
+    border-radius: 20px;
+    background-color: green;
+    width:310px;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.sci{
+    padding: 5px;
+    border-radius: 20px;
+    background-color: green;
+    width:310px;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.sm{
+    padding: 5px;
+    border-radius: 20px;
+    background-color: green;
+    width:310px;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.ngc{
+    padding: 5px;
+    border-radius: 20px;
+    background-color: rgb(152, 218, 152);
+    width:310px;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.cmh{
+    padding: 5px;
+    border-radius: 20px;
+    background-color: rgb(152, 218, 152);
+    width:310px;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.cmn{
+    padding: 5px;
+    border-radius: 20px;
+    background-color: rgb(152, 218, 152);
+    width:310px;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.cwm{
+    padding: 5px;
+    border-radius: 20px;
+    background-color: rgb(152, 218, 152);
+    width:310px;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.casm{
+    padding: 5px;
+    border-radius: 20px;
+    background-color: rgb(152, 218, 152);
+    width:310px;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.cstm{
+    padding: 5px;
+    border-radius: 20px;
+    background-color: rgb(152, 218, 152);
+    width:310px;
+    text-align: center;
+    margin-bottom: 30px;  
+}
+
+.lp{
+    padding: 5px;
+    border-radius: 20px;
+    background-color: rgb(152, 218, 152);
+    width:310px;
+    text-align: center;
+    margin-bottom: 30px;  
+}
+
+.nf{
+    padding: 5px;
+    border-radius: 20px;
+    background-color: green;
+    width:310px;
+    text-align: center;
+    margin-bottom: 30px;  
+}
+
+.tz{
+    padding: 5px;
+    border-radius: 20px;
+    background-color: green;
+    width:310px;
+    text-align: center;
+    margin-bottom: 30px;  
+}
+
+.po{
+    padding: 5px;
+    border-radius: 20px;
+    background-color: green;
+    width:310px;
+    text-align: center;
+    margin-bottom: 30px;  
+}
+
+.ucm{
+    padding: 5px;
+    border-radius: 20px;
+    background-color: green;
+    width:310px;
+    text-align: center;
+    margin-bottom: 30px;  
+}
+
+.ym{
+    padding: 5px;
+    border-radius: 20px;
+    background-color: green;
+    width:310px;
+    text-align: center;
+    margin-bottom: 30px;  
+}
+
+.ec{
+    padding: 5px;
+    border-radius: 20px;
+    background-color: green;
+    width:310px;
+    text-align: center;
+    margin-bottom: 30px;  
+}
+
+.vm{
+    padding: 5px;
+    border-radius: 20px;
+    background-color: green;
+    width:310px;
+    text-align: center;
+    margin-bottom: 30px;  
+}
+
+.cfr{
+    padding: 5px;
+    border-radius: 20px;
+    background-color: rgb(152, 218, 152);
+    width:310px;
+    text-align: center;
+    margin-bottom: 30px;  
+}
+
+
+.zoo:hover{
+    transform: scale(1.1);
+}
+.agakhan:hover{
+    transform: scale(1.1);
+}
+.shoe:hover{
+    transform: scale(1.1);
+}
+.aqua:hover{
+    transform: scale(1.1);
+}
+.artg:hover{
+    transform: scale(1.1);
+}
+.casaloma:hover{
+    transform: scale(1.1);
+}
+.cn:hover{
+    transform: scale(1.1);
+}
+.royalm:hover{
+    transform: scale(1.1);
+}
+.sci:hover{
+    transform: scale(1.1);
+}
+.sm:hover{
+    transform: scale(1.1);
+}
+.ngc:hover{
+    transform: scale(1.1)
+}
+.cmh:hover{
+    transform: scale(1.1)
+}
+.cmn:hover{
+    transform: scale(1.1)
+}
+.cwm:hover{
+    transform: scale(1.1)
+}
+.casm:hover{
+    transform: scale(1.1)
+}
+.cstm:hover{
+    transform: scale(1.1)
+}
+.lp:hover{
+    transform: scale(1.1)
+}
+.nf:hover{
+    transform: scale(1.1)
+}
+.tz:hover{
+    transform: scale(1.1)
+}
+.po:hover{
+    transform: scale(1.1)
+}
+.ucm:hover{
+    transform: scale(1.1)
+}
+.ym:hover{
+    transform: scale(1.1)
+}
+.ec:hover{
+    transform: scale(1.1)
+}
+.vm:hover{
+    transform: scale(1.1)
+}
+.cfr:hover{
+    transform: scale(1.1)
+}
